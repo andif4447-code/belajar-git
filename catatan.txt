@@ -3,4 +3,8 @@ Halo dunia
 
 Halo, ini baris pertama saya.
  f7e4f473c6c88cc22d2c612300ce5ca53011d5a6
-hallo hallo hallos
+<<<<<<< HEAD
+hallo hallo hallo...........................
+=======
+test test test
+>>>>>>> 843f2069d4bc17a66f28e5c760c28de1e986d834
